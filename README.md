@@ -31,9 +31,17 @@ Amazon Web Services + MYSQL
 ### Cloud: Amazon Web Services, Docker Containers
 
 # Designs:
-**This is not the final design** 
+**THIS IS NOT THE FINAL DESIGN** 
 
-![Stock Image Design](https://help.figma.com/hc/article_attachments/18924884984727)
+## Desktop (No Content Selection)
+
+![Desktop Figma Sketch](./formyfans.PNG)
+
+
+
+## Mobile 
+
+## Tablet
 
 
 # Project Deliverables (Subject to change): 
@@ -41,7 +49,7 @@ Amazon Web Services + MYSQL
 - [] Figma Designs 
   - [] Mobile
   - [] Tablet 
-  - [] Desktop
+  - [x] Desktop
 - [] Project Overview
 - [] Setup Amazon Web Services
 - [] Link to MYSQL
